@@ -1,6 +1,6 @@
 Hi, I'm Eri!
 
-I'm an Architect in Tech! <br/>
+I'm an Architect, in Tech! <br/>
 
 
 # 💻 Tech Stack:
